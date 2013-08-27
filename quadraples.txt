@@ -1,0 +1,4 @@
+c = a + b
+d = c + v
+b = c
+d = a - c
